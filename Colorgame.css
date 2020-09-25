@@ -1,0 +1,12 @@
+.boxes{
+    width: 30%;
+ background-color: aquamarine;   
+    margin: 1.66%;
+    padding-bottom: 30%;
+ float: left;
+   
+}
+.container{
+    margin: 0 auto;
+    max-width: 600px;
+}
