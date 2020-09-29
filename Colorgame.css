@@ -1,12 +1,14 @@
-.boxes{
-    width: 30%;
- background-color: aquamarine;   
-    margin: 1.66%;
-    padding-bottom: 30%;
- float: left;
-   
+body {
+  background-color: purple;
 }
-.container{
-    margin: 0 auto;
-    max-width: 600px;
+.boxes {
+  width: 30%;
+  background-color: aquamarine;
+  margin: 1.66%;
+  padding-bottom: 30%;
+  float: left;
+}
+.container {
+  margin: 0 auto;
+  max-width: 600px;
 }
